@@ -44,7 +44,15 @@ public class SexoDAO {
      }
     
     
-    
-    
+    public Sexo selectById(int id){
+        
+        
+        
+    }
+     
+     
+    public sexo selectByFilter(String filter){
+        
+    }
     
 }
